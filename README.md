@@ -5,24 +5,14 @@ Hi there 👋
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
-
-
-
-- 💬 Ask me about ...
-- ⚡ Fun fact: 
+⚡ Fun fact: There is none at the moment 
   
 📫 How to reach me...?
 FB: 
 https://www.facebook.com/raulvincent.rodriguez
 
 Gmail:
-revenger45626@gmail.com
-raulvincentrodriguez45626@gmail.com
-
-Gmail:
-
 revenger45626@gmail.com //This is my personal email address
-
 raulvincentrodriguez45626@gmail.com //While this is for work and formal use
 
 Discord ID: kyoto2202
