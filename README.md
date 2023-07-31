@@ -13,6 +13,7 @@ https://www.facebook.com/raulvincent.rodriguez
 
 Gmail:
 revenger45626@gmail.com //This is my personal email address
+
 raulvincentrodriguez45626@gmail.com //While this is for work and formal use
 
 Discord ID: kyoto2202
