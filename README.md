@@ -16,6 +16,7 @@ LinkedIn:
 https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
 
 Gmail:
+
 revenger45626@gmail.com //This is my personal email address
 
 raulvincentrodriguez45626@gmail.com //While this is for work and formal use
