@@ -12,6 +12,9 @@ Hi there 👋
 FB: 
 https://www.facebook.com/raulvincent.rodriguez
 
+LinkedIn:
+https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
+
 Gmail:
 revenger45626@gmail.com //This is my personal email address
 
