@@ -24,6 +24,8 @@ raulvincentrodriguez45626@gmail.com //While this is for work and formal use
 Discord ID: kyoto2202
 
 Discord Profile Name: Kyoto
+
+Starting this August 16 and beyond, I'll be uploading some files in my repositories for you to check out...
 <!--
 **Lockheer/Lockheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
