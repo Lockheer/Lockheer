@@ -1,11 +1,11 @@
 Hi there 👋
-👋 Hi, I’m Raul Vincent Rodriguez
+👋 Hi, I’m Raul Vincent 
 
 👀 I’m interested in developing Database Systems and Schemas with SQL and Webpages using HTML-CSS, JS, and ASP...
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
-⚡ Fun fact: There is none at the moment 
+⚡ Fun fact: I rarely eat sweets....
   
 📫 How to reach me...?
 
