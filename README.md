@@ -1,5 +1,4 @@
-Hi there 👋
-👋 Hi, I’m Raul Vincent 
+👋 Hi, I'm Vincent 
 
 👀 I’m interested in developing Database Systems and Schemas with SQL and Webpages using HTML-CSS, JS, and ASP...
 
@@ -18,7 +17,7 @@ https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
 Gmail:
 raulvincentrodriguez45626@gmail.com 
 
-Discord ID: kyoto2202
+Discord ID: kyoto2202 (Take note: I rarely use Discord unless it is needed)
 
 Discord Profile Name: Kyoto
 
