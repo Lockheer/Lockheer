@@ -8,7 +8,7 @@ Hi there 👋
 ⚡ Fun fact: I rarely eat sweets....
   
 📫 How to reach me...?
-
+(These are my active social media accounts and where to easily find me.)
 FB: 
 https://www.facebook.com/raulvincent.rodriguez
 
@@ -16,10 +16,7 @@ LinkedIn:
 https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
 
 Gmail:
-
-revenger45626@gmail.com //This is my personal email address
-
-raulvincentrodriguez45626@gmail.com //While this is for work and formal use
+raulvincentrodriguez45626@gmail.com 
 
 Discord ID: kyoto2202
 
