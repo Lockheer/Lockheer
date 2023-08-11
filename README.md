@@ -18,9 +18,6 @@ https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
 Gmail:
 raulvincentrodriguez45626@gmail.com 
 
-Discord ID: kyoto2202 (Take note: I rarely use Discord unless it is needed)
-
-Discord Profile Name: Kyoto
 
 Starting this August 16 and beyond, I'll be uploading some files in my repositories for you to check out...
 <!--
