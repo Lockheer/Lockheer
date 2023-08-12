@@ -19,7 +19,7 @@ Gmail:
 raulvincentrodriguez45626@gmail.com 
 
 
-Starting this August 16 and beyond, I'll be uploading some files in my repositories for you to check out...
+
 <!--
 **Lockheer/Lockheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
