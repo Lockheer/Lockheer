@@ -1,6 +1,6 @@
 👋 Hi, I'm Vincent 
 
-👀 I’m interested in developing Database Systems and Schemas with SQL and Webpages using HTML-CSS, JS, and ASP...
+👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
