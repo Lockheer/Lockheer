@@ -4,7 +4,7 @@
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
-⚡ Fun fact: I rarely eat sweets....
+⚡ Fun fact: There is none at the moment 
   
 📫 How to reach me...?
 (These are my active social media accounts and where to easily find me.)
