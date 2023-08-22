@@ -4,10 +4,10 @@
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
-⚡ Fun fact: Yo yo yo It's hump day
+⚡ Fun fact: YY YO YO ITS HUMP DAY
   
 📫 How to reach me...?
-(These are my active social media accounts and where to easily find me.)
+(TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
 
 FB: 
 https://www.facebook.com/raulvincent.rodriguez
