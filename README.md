@@ -4,9 +4,10 @@
 
 🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
 
-⚡ Fun fact: YY YO YO ITS HUMP DAY
+⚡ Fun fact: I fell in love with appalachian wine
   
 📫 How to reach me...?
+
 (TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
 
 FB: 
