@@ -20,6 +20,13 @@ Gmail:
 raulvincentrodriguez45626@gmail.com 
 
 
+
+
+
+
+<!--https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/-->
+
+
 .......
 
 <!--
