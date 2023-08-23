@@ -2,7 +2,7 @@
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
 
-🌱 I’m also currently learning XAML, SQL, C# and ASP.NET for my college program... As for my freelancing I am more into learning Javascript since I have plans to work on web development before moving on to complex works
+🌱 I’m also currently learning ASP.NET and studying about MVC
 
 ⚡ Fun fact: I fell in love with appalachian wine
   
