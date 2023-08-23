@@ -19,15 +19,8 @@ https://www.linkedin.com/in/raul-vincent-rodriguez-3a907b286/
 Gmail:
 raulvincentrodriguez45626@gmail.com 
 
+I hope we can get along well.
 
-
-
-
-
-<!--https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/-->
-
-
-.......
 
 <!--
 **Lockheer/Lockheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
