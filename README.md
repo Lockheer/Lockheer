@@ -6,7 +6,6 @@
 
 ⚡ Fun fact: I fell in love with appalachian wine
   
-📫 How to reach me...?
 
 (TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
 
