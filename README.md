@@ -1,4 +1,4 @@
-👋 Hi, I'm Vincent //but you can call me "Kyoto"
+👋 Hi, I'm Vincent 
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
 
