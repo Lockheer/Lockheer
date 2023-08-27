@@ -4,7 +4,7 @@
 
 🌱 I’m also currently learning ASP.NET and studying about MVC
 
-⚡ Fun fact: I fell in love with appalachian wine
+⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
   
 Here are my contact details:
 (TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
