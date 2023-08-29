@@ -1,4 +1,4 @@
-👋 Hi, I'm Vincent 
+👋 Hi, I'm Vince
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
 
