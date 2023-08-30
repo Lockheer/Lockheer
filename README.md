@@ -2,7 +2,7 @@
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
 
-🌱 I’m also currently learning ASP.NET and studying about MVC
+🌱 I’m also currently learning ASP.NET and studying about the MVC architecture
 
 ⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
   
