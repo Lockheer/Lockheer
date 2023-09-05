@@ -1,0 +1,66 @@
+Create Table Cellshop (
+
+ShopID int primary key,
+Shopname varchar(32),
+ShopAddress nvarchar (64),
+ContactNumber int
+
+
+)
+
+
+Create Table Customer (
+
+CustomerName varchar(64) primary key,
+CustomerContactNumber bigint,
+EmailAdd nvarchar(32),
+PaymentMethod varchar(32),
+ShopId int
+Foreign Key (ShopId) References Cellshop(ShopID)
+
+
+)
+
+
+Create Table Cellphone
+(
+	UnitID int primary key,
+	UnitName nvarchar(32),
+	Brand varchar (32),
+	Color varchar (32),
+	CustomerName varchar(64),
+	CellShopId int,
+
+	Foreign Key (CustomerName) References Customer (CustomerName),
+	Foreign Key (CellShopId) References Cellshop(ShopID) 
+
+)
+
+Insert into Cellshop(ShopID,Shopname,ShopAddress,ContactNumber)
+values (010,'Michael Cellstore', 'z6-4401 Minglanilla, Cebu', 0995678901),
+		(011,'The Cp hub', 'Talisay Poblacion , Cebu', 2731484),
+		(012,'Cellquickie', 'South Poblacion, Naga Cebu', 2727154),
+		(013,'Cellpie', 'North Poblacion, Naga Cebu', 2725164),
+		(014,'Cellphone Valley', 'ICE Center, Mabolo City, Cebu', 08142213)
+
+
+Insert into Customer (CustomerName, CustomerContactNumber,EmailAdd,PaymentMethod,ShopId)
+values ('Fritzgerald Gravines', 0995146781, 'fritzgwapo@gmail.com', 'Home Credit', 011),
+		('Gervill Caintapan', 0994123678,'caintapanwaysulod2@gmail.com','Full Payment', 013),
+		('Joshua Cho', 099412314567,'bosscho69@act.edu','1 Year Installment Plan', 010),
+		('Danica Basalo', 0994231415,'mommydannyuwu69@gmail.com','Full Payment', 014),
+		('Raul Vincent Rodriguez', 09958855,'raul6@gmail.com','Full Payment', 012)
+
+
+Insert into Cellphone (UnitID,UnitName,Brand,Color,CellShopId,CustomerName)
+values (2011,'Galaxy Ace','Samsung','Silver Ingot',013,'Gervill Caintapan'),
+		(2012,'Xiaomi Poco 64s','Xiaomi','Black',014,'Danica Basalo'),
+		(2013,'Iphone 12','Apple','White',011,'Fritzgerald Gravines'),
+		(2014,'Fakeyou C6','Realme','Vanilla White',010,'Joshua Cho'),
+		(2015,'Vivo Y35','Vivo','Magnetto Black',012,'Raul Vincent Rodriguez')
+
+
+
+
+
+		
