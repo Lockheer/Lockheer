@@ -6,6 +6,8 @@
 🌱 I’m also currently learning Web-development, System Analysis and MVC architecture
 
 ⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
+
+Add me on my Microsoft Xbox Account: Addmerawr
   
 Here are my contact details:
 (TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
