@@ -1,7 +1,7 @@
 👋 Hi, I'm Vince 
 
 
-👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP and SQL
+👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
 
 🌱 I’m also currently learning Web-development, System Analysis and MVC architecture
 
