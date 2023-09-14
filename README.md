@@ -1,5 +1,6 @@
 👋 Hi, I'm Vince 
 
+Favorite Quote: "I want mommy's segs." 
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
 
