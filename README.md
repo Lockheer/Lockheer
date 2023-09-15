@@ -4,7 +4,7 @@ Favorite Quote: "I want mommy's segs."
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
 
-🌱 I’m also currently learning Web-development, System Analysis and MVC architecture
+🌱 I’m also currently learning Web-development,and Data Architecture.
 
 ⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
 
