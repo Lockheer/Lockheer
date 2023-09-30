@@ -1,6 +1,6 @@
 👋 Hi, I'm Vince OwO
 
-Favorite Quote: "I want mommy's segs. AUEGH" 
+Favorite Quote: "I want mommy's segs. AUEGH".
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
 
