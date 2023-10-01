@@ -2,7 +2,7 @@
 
 Favorite Quote: "I want mommy's segs. AUEGH".
 
-👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
+👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET(RazorPages) and SQL
 
 🌱 I’m also currently learning Web-development,and Data Architecture.
 
