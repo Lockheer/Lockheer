@@ -1,10 +1,10 @@
-👋 Hi, I'm Vince OwO
+👋 Hi, I'm Vince 
 
 Favorite Quote: "I want mommy's segs. AUEGH".
 
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET(RazorPages) and SQL
 
-🌱 I’m also currently learning Web-development,and Data Architecture.
+🌱 I’m also currently learning about Advanced Web-development,and Data Architecture.
 
 ⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
 
