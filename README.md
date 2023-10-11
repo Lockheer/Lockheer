@@ -1,4 +1,4 @@
-👋 Hi, I'm Vince 
+👋 Hi, I'm Vincent
 
 Favorite Quote: "I want mommy's segs. AUEGH".
 
