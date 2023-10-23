@@ -1,4 +1,4 @@
-👋 Hi, I'm Vincent
+👋 Hi, I'm Vincent and I love to practice my coding skills while creating different projects that primarily uses C#, HTML-CSS, JS and ASP.NET
 
 Favorite Quote: "I want mommy's segs. AUEGH".
 
