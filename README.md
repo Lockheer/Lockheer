@@ -2,6 +2,8 @@
 
 Favorite Quote: "I want mommy's segs! AUEGH".
 
+My favorite season is HALLOWEEN btw
+
 👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET(RazorPages) and SQL
 
 🌱 I’m also currently learning about Advanced Web-development,and Data Architecture.
