@@ -1,19 +1,19 @@
-👋 Hi, I'm Vincent and I love to practice my coding skills while creating different projects that primarily uses C#, HTML-CSS, JS and ASP.NET
+👋 Hi, I'm Vincent and I love to practice my coding skills while creating different projects that primarily uses C#, HTML-CSS, JS and ASP.NET. AS of now I am actively learning C++ and Java for advanced and 
+complex software projects.
 
 Favorite Quote: "It is never too late to say you are accountable".
 
 My favorite season is HALLOWEEN btw
 
-👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET(RazorPages) and SQL
+👀 I’m currently interested in developing Webpages using HTML-CSS, JS, ASP.NET and SQL
 
 🌱 I’m also currently learning about Advanced Web-development,and Data Architecture.
 
-⚡ Fun fact: I love playing racing games like Forza Horizon, Need for Speed and Initial D
+⚡ Fun fact: I love to read books and I am a Star Wars nerd.
 
 Add me on my Microsoft Xbox Account: Addmerawr
   
 Here are my contact details:
-(TAKE NOTE: I AM VERY ACTIVE WITH THE PROVIDED SOCIAL ACCOUNT LINKS)
 
 FB: 
 https://www.facebook.com/raulvincent.rodriguez
